@@ -1,0 +1,5 @@
+1. firstly I learnt numpy python from youtube code with harry.
+2. then I learned opencv python further about corner, color, contour detection, matching templates , etc. and also revised things which I have done earlier like reading and showing images, videos, drawing shapes, coverting images to different forms ans rescaling images.
+3. Then I started working on the given task .
+4. First I worked on UAS-TASK folder and implemented all sorts of things that I can , experimenting my thoughts and trying to get required results from my code.In this folder I changed my code again and again to get better results. 
+5. Then I worked on UAS-final folder which in the main branch of my github repo , here I compiled all required functions and have created required output by importing those functions to main.py and also did some mathematical manipulations to achieve the task .
